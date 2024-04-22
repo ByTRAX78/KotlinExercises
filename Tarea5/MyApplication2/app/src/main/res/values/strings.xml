@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Adrian_Martinez_Martinez</string>
+    <string name="accept_button">ACEPTAR</string>
+    <string name="Alumno">Adrian Martinez Martinez</string>
+    <string name="nombre">Nombre(s)</string>
+    <string name="apellido">Apellido(s)</string>
+    <string name="phone">Teléfono</string>
+    <string name="email">Correo eléctronico</string>
+</resources>
